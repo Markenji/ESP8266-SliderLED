@@ -7,8 +7,8 @@
 #define LED_GREEN   12 // D6
 #define LED_BLUE    13 // D7
 
-const char* ssid = "FullBaster";
-const char* password = "markenji21";
+const char* ssid = "SSD";
+const char* password = "PSW";
 int contconexion = 0;
 
 String pagina ="<html>"
